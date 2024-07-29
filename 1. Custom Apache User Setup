@@ -1,3 +1,4 @@
+# Custom Apache User Setup
 1. Create a user named anita on App server 3 within the Stratos Datacenter.
 2. Assign a unique UID 1449 and designate the home directory as /var/www/anita.
 
